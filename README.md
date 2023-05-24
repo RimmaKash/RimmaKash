@@ -21,3 +21,6 @@
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/rimmaqa/) [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/rimmaqa)
 
+### Моя статистика📈 
+  
+ ![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=RimmaKash&show_icons=true&theme=radical)
