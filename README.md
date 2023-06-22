@@ -1,4 +1,4 @@
-![Header](https://github.com/klushcheva/klushcheva/blob/main/assets/10.jpg)
+![Header](https://github.com/RimmaKash/foto/blob/main/fon.jpg)
 ## Добрый день! Меня зовут Римма, я начинающий специалист в области QA с опытом работы 6 месяцев в компании "ForestVPN".
 ### В настоящее время я нахожусь в активном поиске нового проекта и с удовольствием присоединюсь к вашей команде в качестве QA Engineer.
 
