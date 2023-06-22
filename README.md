@@ -29,3 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>&nbsp;
   
+## Примеры работы Manual
+- [Тест кейсы](https://github.com/RimmaKash/groall_pro_test/blob/main/groall_PRO_testcases.pdf)📊
+- [Чек листы](https://github.com/RimmaKash/Test_collection/blob/master/check-lists.md)📁
+- [Баг репорты и задачи](https://github.com/RimmaKash/groall_pro_test/blob/main/groall_PRO_bugreport.pdf)🐞
+- [Чек лист тестирования API в Postman](https://github.com/RimmaKash/Test_collection/blob/master/check-lists-API.md)🖱️
